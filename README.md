@@ -1,2 +1,1 @@
-# HIT_CSAPP
-计算机系统
+# traditional c code
